@@ -7,8 +7,8 @@
     <ProjectGuid>{5125DCF0-FAD0-412F-B06C-FF4CE289A844}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClicksControl</RootNamespace>
-    <AssemblyName>ClicksControl</AssemblyName>
+    <RootNamespace>__NAME__</RootNamespace>
+    <AssemblyName>__NAME__</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

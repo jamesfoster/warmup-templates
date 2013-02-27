@@ -7,8 +7,8 @@
     <ProjectGuid>{BAD2F407-CF58-4653-9741-C04B6B103816}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClicksConrol.Domain</RootNamespace>
-    <AssemblyName>ClicksConrol.Domain</AssemblyName>
+    <RootNamespace>__NAME__.Domain</RootNamespace>
+    <AssemblyName>__NAME__.Domain</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

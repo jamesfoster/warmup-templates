@@ -7,8 +7,8 @@
     <ProjectGuid>{D7311402-18A3-4C81-8D24-6447751DA8BF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClicksControl.Data</RootNamespace>
-    <AssemblyName>ClicksControl.Data</AssemblyName>
+    <RootNamespace>__NAME__.Data</RootNamespace>
+    <AssemblyName>__NAME__.Data</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
